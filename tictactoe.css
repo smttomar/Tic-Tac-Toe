@@ -12,6 +12,24 @@
   h1{
     color: #191913;
   }
+
+  a{
+    position: absolute;
+    
+    color: #191913;
+    text-decoration: none;
+    font-size: small;
+    bottom: 10px;
+    right: 10px;
+  }
+
+  #Sumit{
+    position: absolute;
+    height: 25px;
+    width: 25px;
+    bottom: 9px;
+    right: 95px;
+  }
   
   #animatedGif {
     width: 500px;
